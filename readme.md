@@ -20,3 +20,5 @@ slidely modified version of this tutorial:
 
 ## file added:
 - HelloWorldBlazorCanvas/Client/Pages/CanvasDrawing.razor
+
+<img width="913" alt="2022-01-20_11-17-17" src="https://user-images.githubusercontent.com/5998952/150319466-3a5ad0fc-1da3-4297-94dd-3e2cfb042518.png">

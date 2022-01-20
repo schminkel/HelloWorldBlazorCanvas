@@ -1,13 +1,13 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.810.16
+VisualStudioVersion = 16.0.810.17
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldBlazorCanvas.Server", "HelloWorldBlazorCanvas\Server\HelloWorldBlazorCanvas.Server.csproj", "{C6757555-1CD3-41D8-9FDD-60EA90A747E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldBlazorCanvas.Server", "Server\HelloWorldBlazorCanvas.Server.csproj", "{F5C929DB-C351-43AE-AB7E-4485D630C553}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldBlazorCanvas.Client", "HelloWorldBlazorCanvas\Client\HelloWorldBlazorCanvas.Client.csproj", "{4F22186D-D08A-4D56-A08C-D5895F2A5151}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldBlazorCanvas.Client", "Client\HelloWorldBlazorCanvas.Client.csproj", "{5FE02C9A-B908-4531-B2FD-9B4F44BDBF60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldBlazorCanvas.Shared", "HelloWorldBlazorCanvas\Shared\HelloWorldBlazorCanvas.Shared.csproj", "{7E3734D5-D735-41CE-A8EA-1CBF0E44C6AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldBlazorCanvas.Shared", "Shared\HelloWorldBlazorCanvas.Shared.csproj", "{31BF2CDB-E1E5-47BC-A2C4-D74B2F75D76F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,23 +15,23 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C6757555-1CD3-41D8-9FDD-60EA90A747E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C6757555-1CD3-41D8-9FDD-60EA90A747E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C6757555-1CD3-41D8-9FDD-60EA90A747E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C6757555-1CD3-41D8-9FDD-60EA90A747E5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4F22186D-D08A-4D56-A08C-D5895F2A5151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4F22186D-D08A-4D56-A08C-D5895F2A5151}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4F22186D-D08A-4D56-A08C-D5895F2A5151}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4F22186D-D08A-4D56-A08C-D5895F2A5151}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7E3734D5-D735-41CE-A8EA-1CBF0E44C6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7E3734D5-D735-41CE-A8EA-1CBF0E44C6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7E3734D5-D735-41CE-A8EA-1CBF0E44C6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7E3734D5-D735-41CE-A8EA-1CBF0E44C6AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C929DB-C351-43AE-AB7E-4485D630C553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C929DB-C351-43AE-AB7E-4485D630C553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C929DB-C351-43AE-AB7E-4485D630C553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C929DB-C351-43AE-AB7E-4485D630C553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FE02C9A-B908-4531-B2FD-9B4F44BDBF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE02C9A-B908-4531-B2FD-9B4F44BDBF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE02C9A-B908-4531-B2FD-9B4F44BDBF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE02C9A-B908-4531-B2FD-9B4F44BDBF60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31BF2CDB-E1E5-47BC-A2C4-D74B2F75D76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BF2CDB-E1E5-47BC-A2C4-D74B2F75D76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BF2CDB-E1E5-47BC-A2C4-D74B2F75D76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BF2CDB-E1E5-47BC-A2C4-D74B2F75D76F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CCADB4C6-77FC-4CAD-90B0-6860FBE26018}
+		SolutionGuid = {1E456B20-E0F9-463B-AF18-CF44DDBB29F9}
 	EndGlobalSection
 EndGlobal
